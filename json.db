@@ -6,7 +6,8 @@
     ]
     "stuff": [
         {
-            
+        "id": 1,
+        "name": "cocaine" 
         }
     ]
 }
