@@ -7,8 +7,24 @@
     ]
     "stuff": [
         {
-        "id": 1,
-        "name": "cocaine" 
+            "id": 1,
+            "name": "Cocaine"
+            "price": "30$ per gram" 
+        },
+        {
+            "id": 2,
+            "name": Methamphetamine
+            "price": "20$ per gram"
+        },
+        {
+            "id": 3,
+            "name": Heroin
+            "price": "55$ per gram"
+        },
+        {
+            "id": 4,
+            "name": Ketamine
+            "price": "60$ per gram"
         }
     ]
 }
