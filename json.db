@@ -9,17 +9,39 @@
         },
         {
             "id": 2,
-            "name": "Jessie",
+            "name": "Jesse",
             "nickname": "PinkMan",
             "photo": "img/JesseS5.png",
             "balance": 100
-
+        },
+        {
+            "id": 3,
+            "name": "Jimmie",
+            "nickname": "MrBeast",
+            "photo": "img/MrBeast.png",
+            "balance": 10000000
+        },
+        {
+            "id": 4,
+            "name": "Pudge",
+            "nickname": "Valera Chonosphere",
+            "photo": "img/Pudge.png",
+            "balance": 30000
+        },       
+        {
+            "id": 5,
+            "name": "Vovchik",
+            "nickname": "Stary bog",
+            "photo": "img/staryBog.png",
+            "balance": 1000000000
         }
+        
+        
+
     ]
     "stuff": [
         {
-            "id": 1,
-            "name": "cocaine" 
+            
         }
     ]
 }
