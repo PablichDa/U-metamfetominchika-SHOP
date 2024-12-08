@@ -38,35 +38,31 @@
         
         
 
-    ]
+    ],
     "stuff": [
         {
-<<<<<<< HEAD
-            
-=======
             "id": 1,
-            "name": "Cocaine"
-            "price": "30$ per gram"
+            "name": "Cocaine",
+            "price": "30$ per gram",
             "photo": "img/Cocaine.png" 
         },
         {
             "id": 2,
-            "name": Methamphetamine
-            "price": "20$ per gram"
+            "name": "Methamphetamine",
+            "price": "20$ per gram",
             "photo": "img/Meth.png"
         },
         {
             "id": 3,
-            "name": Heroin
-            "price": "55$ per gram"
+            "name": "Heroin",
+            "price": "55$ per gram",
             "photo": "img/Heroin.png"
         },
         {
             "id": 4,
-            "name": Ketamine
-            "price": "60$ per gram"
+            "name": "Ketamine",
+            "price": "60$ per gram",
             "photo": "img/Ketamine.webp"
->>>>>>> 08e508018ae54d361dca0c81b2d1e0903bbe9d32
         }
     ]
 }
