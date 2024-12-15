@@ -46,7 +46,7 @@
             "price": "30$ per gram",
             "photo": "img/Cocaine.png",
             "description": "хорошо штырит",
-            "seller-id": "Walter"
+            "seller-id": 1
         },
         {
             "id": 2,
@@ -54,7 +54,7 @@
             "price": "20$ per gram",
             "photo": "img/Meth.png",
             "description": "хорошо штырит",
-            "seller-id": "Jesse"
+            "seller-id": 2
         },
         {
             "id": 3,
@@ -62,7 +62,7 @@
             "price": "55$ per gram",
             "photo": "img/Heroin.png",
             "description": "хорошо штырит",
-            "seller-id": "Pudge"
+            "seller-id": 4
         },
         {
             "id": 4,
@@ -70,7 +70,7 @@
             "price": "60$ per gram",
             "photo": "img/Ketamine.webp",
             "description": "хорошо штырит",
-            "seller-id": "Vovchik"
+            "seller-id": 5
         }
         ,
         {
@@ -79,7 +79,7 @@
             "price": "23$ per gram",
             "photo": "img/Mephedrone.png",
             "description": "хорошо штырит",
-            "seller-id": "Walter" 
+            "seller-id": 1
         },
         {
             "id": 6,
@@ -87,7 +87,7 @@
             "price": "150$ per gram",
             "photo": "img/ecstasy.png",
             "description": "хорошо штырит",
-            "seller-id": "Jimmie"
+            "seller-id": 3
         },
         {
             "id": 7,
@@ -95,7 +95,7 @@
             "price": "11$ per gram",
             "photo": "img/Marijuana.png",
             "description": "хорошо штырит",
-            "seller-id": "Jimmie"
+            "seller-id": 3
         },
         {
             "id": 8,
@@ -103,7 +103,7 @@
             "price": "5$ per gram",
             "photo": "img/ibuprofen.png",
             "description": "хорошо штырит",
-            "seller-id": "Vovchik"
+            "seller-id": 5
         }
     ]
 }
