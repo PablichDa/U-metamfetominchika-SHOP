@@ -1,0 +1,93 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Walter",
+            "nickname": "Heisenberg",
+            "photo": "img/Heisenberg.webp",
+            "balance": 150000
+        },
+        {
+            "id": 2,
+            "name": "Jesse",
+            "nickname": "PinkMan",
+            "photo": "img/JesseS5.png",
+            "balance": 100
+        },
+        {
+            "id": 3,
+            "name": "Jimmie",
+            "nickname": "MrBeast",
+            "photo": "img/MrBeast.png",
+            "balance": 10000000
+        },
+        {
+            "id": 4,
+            "name": "Pudge",
+            "nickname": "Valera Chonosphere",
+            "photo": "img/Pudge.png",
+            "balance": 30000
+        },       
+        {
+            "id": 5,
+            "name": "Vovchik",
+            "nickname": "Stary bog",
+            "photo": "img/staryBog.png",
+            "balance": 1000000000
+        }
+        
+        
+
+    ],
+    "stuff": [
+        {
+            "id": 1,
+            "name": "Cocaine",
+            "price": "30$ per gram",
+            "photo": "img/Cocaine.png" 
+        },
+        {
+            "id": 2,
+            "name": "Methamphetamine",
+            "price": "20$ per gram",
+            "photo": "img/Meth.png"
+        },
+        {
+            "id": 3,
+            "name": "Heroin",
+            "price": "55$ per gram",
+            "photo": "img/Heroin.png"
+        },
+        {
+            "id": 4,
+            "name": "Ketamine",
+            "price": "60$ per gram",
+            "photo": "img/Ketamine.webp"
+        }
+        ,
+        {
+           "id": 5,
+            "name": "Mephedrone",
+            "price": "23$ per gram",
+            "photo": "img/Mephedrone.png" 
+        },
+        {
+            "id": 6,
+            "name": "Ecstasy",
+            "price": "150$ per gram",
+            "photo": "img/ecstasy.png"
+        },
+        {
+            "id": 7,
+            "name": "Marijuana",
+            "price": "11$ per gram",
+            "photo": "img/Marijuana.png"
+        },
+        {
+            "id": 8,
+            "name": "Ibuprofen",
+            "price": "5$ per gram",
+            "photo": "img/ibuprofen.png"
+        }
+    ]
+}
