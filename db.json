@@ -45,28 +45,32 @@
             "name": "Cocaine",
             "price": "30$ per gram",
             "photo": "img/Cocaine.png",
-            "description": "хорошо штырит"
+            "description": "хорошо штырит",
+            "seller-id": "Walter"
         },
         {
             "id": 2,
             "name": "Methamphetamine",
             "price": "20$ per gram",
             "photo": "img/Meth.png",
-            "description": "хорошо штырит"
+            "description": "хорошо штырит",
+            "seller-id": "Jesse"
         },
         {
             "id": 3,
             "name": "Heroin",
             "price": "55$ per gram",
             "photo": "img/Heroin.png",
-            "description": "хорошо штырит"
+            "description": "хорошо штырит",
+            "seller-id": "Pudge"
         },
         {
             "id": 4,
             "name": "Ketamine",
             "price": "60$ per gram",
             "photo": "img/Ketamine.webp",
-            "description": "хорошо штырит"
+            "description": "хорошо штырит",
+            "seller-id": "Vovchik"
         }
         ,
         {
@@ -74,28 +78,32 @@
             "name": "Mephedrone",
             "price": "23$ per gram",
             "photo": "img/Mephedrone.png",
-            "description": "хорошо штырит" 
+            "description": "хорошо штырит",
+            "seller-id": "Walter" 
         },
         {
             "id": 6,
             "name": "Ecstasy",
             "price": "150$ per gram",
             "photo": "img/ecstasy.png",
-            "description": "хорошо штырит"
+            "description": "хорошо штырит",
+            "seller-id": "Jimmie"
         },
         {
             "id": 7,
             "name": "Marijuana",
             "price": "11$ per gram",
             "photo": "img/Marijuana.png",
-            "description": "хорошо штырит"
+            "description": "хорошо штырит",
+            "seller-id": "Jimmie"
         },
         {
             "id": 8,
             "name": "Ibuprofen",
             "price": "5$ per gram",
             "photo": "img/ibuprofen.png",
-            "description": "хорошо штырит"
+            "description": "хорошо штырит",
+            "seller-id": "Vovchik"
         }
     ]
 }
